@@ -805,8 +805,5 @@ mypy src/
 
 ## License
 
-[Add your license here]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-[Add contact information here]
